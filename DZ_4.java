@@ -1,4 +1,4 @@
-package Sem_1;
+package Sem_1_DZ;
 
 /*
  * 4. *+Задано уравнение вида q + w = e, q, w, e >= 0. 
