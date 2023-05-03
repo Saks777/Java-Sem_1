@@ -9,6 +9,7 @@ public class DZ_3 {
   static int scanNumber() {
     Scanner scan = new Scanner(System.in);
     int number = scan.nextInt();
+    scan.close();
     return number;
 
   }
@@ -17,6 +18,7 @@ public class DZ_3 {
   static String scanOperations() {
     Scanner scan = new Scanner(System.in);
     String operations = scan.nextLine();
+    scan.close();
     return operations;
 
   }
